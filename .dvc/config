@@ -1,4 +1,5 @@
 [core]
-    remote = myremote
-['remote "myremote"']
-    url = gdrive://1H_HW-5Mv-7R2kP9RZ1NMa3z_icH6St50
+    remote = origin
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/Rami-Louati/MLOps-Trustpilot.s3
